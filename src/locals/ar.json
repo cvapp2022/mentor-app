@@ -1,0 +1,67 @@
+{
+    "Save":"حفظ",
+    "Edit":"تعديل",
+    "Delete":"إزالة",
+    "Update":"تعديل",
+    "Cancel":"إلغاء",
+    "Preview":"عرض",
+    "DownloadPdf":"تحميل كا PDF",
+    
+    "login":"تسجيل الدخول",
+    "register":"إنشاء حساب جديد",
+    "dashboard":"الرئيسية",
+
+    "dashboardTitle":"الصفحة الرئيسية",
+    "dashboardDesc":" شرح مطول عن الصفحة الرئيسية",
+  
+    "Templates":"القوالب",
+    "Profile":"المعلومات الشخصية",
+    "Experiences":"الخبرات",
+    "Educations":"التعليم",
+    "Reffrences":"المراجع",
+    "Awards":"الجوائز",
+    "Projects":"المشاريع",
+    "Organizations":" تطوعية",
+    "Skills":"مهارات",
+    
+    "AddExp":"إضف خبرة",
+    "AddEdu":"إضف تعليم",
+    "AddReff":"أضف مرجع",
+    "AddAw":"أضف جائزة",
+    "AddProj":"أضف مشروع",
+    "AddOrg":"أضف تطوع",
+    "AddSkill":"أضف مهارة",
+
+    "ExpName":"أسم الخبرة",
+    "ExpJob":"منصب الخبرة",
+    "ExpDesc":"شرح عن الخبرة",
+
+    "EduName":"أسم التعليم",
+    "EduAt":"في",
+    "EduDesc":"شرح عن التعليم",
+
+    "ReffName":"الأسم الكامل للمرحع",
+    "ReffJob":"منصب المرجع",
+    "ReffMail":"البريد الألكتروني للمرجع",
+    "ReffPhone":"رقم المرجع",
+    "ReffAt":"المرجع يعمل عند",
+
+    "AwTitle":"أسم الجائزة",
+    "Awjob":"منصب الجائزة",
+    "AwDate":"في",
+    "AwDesc":"شرح عن الجائزة",
+
+    "OrgTitle":"أسم التطوع",
+    "OrgJob":"منصب التطوع",
+    "OrgDesc":"شرح عن التطوع",
+
+    "ProjName":"أسم المشروع",
+    "ProjDesc":"شرح عن المشروع",
+
+    "PhoneNumber":"رقم الموبايل",
+    "OpNumber":"رقم العملية",
+
+    "notifMentorAddedToProgram":"{programName} تم إضافة حسابك لبرنامج المنحة ",
+    "notifMentorRemovedFromProgram":"{programName} تم ازالة حسابك لبرنامج المنحة "
+
+}

@@ -1,0 +1,73 @@
+{
+    "Save":"Save",
+    "Edit":"Edit",
+    "Delete":"Delete",
+    "Update":"Update",
+    "Cancel":"Cancel",
+    "Preview":"Preview",
+    "DownloadPdf":"Download As PDF",
+
+    "login":"login",
+    "register":"register",
+    "dashboard":"Dashboard",
+
+    "dashboardTitle":"Your Dashboard ",
+    "dashboardDesc":"lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore sapiente inventore autem, suscipit obcaecati ex laboriosam et",
+    
+    "requestTitle":"Your Mentorship requests",
+    "requestDesc":"lorem Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore sapiente inventore autem, suscipit obcaecati ex laboriosam et",
+
+    "notifMentorAddedToProgram":"your account Added to {programName} mentorship program",
+    "notifMentorRemovedFromProgram":"your account Removed From {programName} mentorship program",
+
+    "Templates":"Templates",
+    "Profile":"Profile",
+    "Experiences":"Experiences",
+    "Educations":"Educations",
+    "Reffrences":"Reffrences",
+    "Awards":"Awards",
+    "Projects":"Projects",
+    "Organizations":"Organizations",
+    "Skills":"Skills",
+    
+    "DateStart":"Started at",
+    "DateEnd":"Ended at",
+    
+    "AddExp":"+ Add Experience",
+    "AddEdu":"+ Add Education",
+    "AddReff":"+ Add Reffrence",
+    "AddAw":"+ Add Award",
+    "AddProj":"+ Add Project",
+    "AddOrg":"+ Add Organization",
+    "AddSkill":"+ Add Skill",
+
+    "ExpName":"Experence name",
+    "ExpJob":"Experience job",
+    "ExpDesc":"Experence Descreption",
+
+    "EduName":"Education name",
+    "EduAt":"Education at",
+    "EduDesc":"Education Descreption",
+
+    "ReffName":"Reffrence full name",
+    "ReffJob":"Reffrence job",
+    "ReffMail":"Reffrence mail",
+    "ReffPhone":"Reffrence phone",
+    "ReffAt":"Reffrence working at",
+
+    "AwTitle":"Award title",
+    "Awjob":"Award job",
+    "AwDate":"Award at",
+    "AwDesc":"Award descreption",
+
+    "OrgTitle":"Organization title",
+    "OrgJob":"Organization job",
+    "OrgDesc":"Organization descreption",
+
+    "ProjName":"Project name",
+    "ProjDesc":"Project Descreption",
+
+    "PhoneNumber":"Phone Number",
+    "OpNumber":"Transaction Number"
+
+}
